@@ -84,6 +84,7 @@
 
 				<ul class="actions">
 					<li><a href="#two" class="button icon fa-chevron-down scrolly">Learn More</a></li>
+					<li><a href="#four" class="button icon fa-file-pdf-o scrolly">My Resume</a></li>
 				</ul>
 			</section>
 
