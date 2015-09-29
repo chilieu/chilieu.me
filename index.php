@@ -34,7 +34,7 @@
 					</ul>
 				</div>
 				<div class="image img-responsive"><div class="inner">
-					<img src="images/chilieu.jpg" alt="ChiLT | PHP Developer" class="img-responsive" />
+					<img src="images/chilieu0<?php echo rand(0,3);?>.jpg" alt="ChiLT | PHP Developer" class="img-responsive" />
 				</div></div>
 			</header>
 
