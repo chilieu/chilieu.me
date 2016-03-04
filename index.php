@@ -28,7 +28,7 @@
 			<header id="header">
 				<div class="content">
 					<h1><a href="#">Chi T Lieu</a></h1>
-					<p>A PHP Web Developer, <br>currently living in California. <br>Thanks for stopping by!</p>
+					<p>A PHP Web Developer <br>and Co-Founder of <br> <a href="http://www.cloudberrysoft.com/">Cloudberry Software</a>, <br>currently living in California. <br>Thanks for stopping by!</p>
 					<ul class="actions">
 						<li><a href="#one" class="button icon fa-chevron-down scrolly">Learn More What I-Do</a></li>
 					</ul>
@@ -43,14 +43,14 @@
 				<header class="major">
 					<h2>I’ve been working as PHP Developer from 2007</h2>
 					<span>While I had successfully worked on large projects for companies like
-						<br><a href="http://www.vitalify.asia/en/company/" rel="nofollow">Vitalify Asia</a>,
-						<a href="http://www.ispartners.net/" rel="nofollow">IS-Partners</a>,
-                        <a href="http://www.citysmart.vn/" rel="nofollow">CitySmart VN</a> in VietNam.
-                        <br> <a href="http://www.abmx.com" rel="nofollow">ABMX Servers</a>, <a href="http://www.bakerhughes.com/" rel="nofollow">Baker Hughes Inc.</a> in America.
-                                                <br>I mostly enjoy working on small to medium-sized projects.</span>
+						<br><a href="http://www.vitalify.asia/en/company/" target="_blank" rel="nofollow">Vitalify Asia</a>,
+						<a href="http://www.ispartners.net/" target="_blank" rel="nofollow">IS-Partners</a>,
+                        <a href="http://www.citysmart.vn/" target="_blank" rel="nofollow">CitySmart VN</a> in VietNam.
+                        <br><br> <a href="http://www.abmx.com" target="_blank" rel="nofollow">ABMX Servers</a>, <a href="http://www.bakerhughes.com/" target="_blank" rel="nofollow">Baker Hughes Inc.</a> and <a href="https://www.loanzify.com/" target="_blank" rel="nofollow">Loanzify.com</a> in America.
+                                                <br><br>I mostly enjoy working on small to medium-sized projects.</span>
 				</header>
 					<div class="inner alt">
-						<h2>My Skills and Weapons</h2>
+						<h2>My Tools and Skills</h2>
 						<div class="table-wrapper">
 							<table class="alt">
 								<thead>
@@ -64,17 +64,17 @@
 									<tr>
 										<td>Back-End</td>
 										<td>PHP5 - MySQL, CodeIgniter Framework, Phalcon Framework</td>
-										<td>3</td>
+										<td>5</td>
 									</tr>
 									<tr>
 										<td>Front-End</td>
 										<td>Angularjs, WordPress Magic, CSS/HTML + Ajax/JQuery, Bootstrap Framework</td>
-										<td>3</td>
+										<td>5</td>
 									</tr>
 									<tr>
 										<td>Mobile Apps</td>
 										<td>Ionic, Android Apps, Android Games, Mobile-Responsive Websites</td>
-										<td>1</td>
+										<td>2</td>
 									</tr>
 								</tbody>
 							</table>
@@ -145,14 +145,14 @@
 		<!-- Four -->
 			<section id="four" class="wrapper style2 special">
 				<header class="major">
-					<h2>My Resume</h2>
+					<!--h2>My Resume</h2-->
 					<p>Want to hire me for a project, got questions about my work or just want to say hi?
-						<br>Just send me an message via Social Network below!
+						<br>Just send me an message via Social Network below! or email me @ contact at chilieu.me
 					</p>
 				</header>
-				<ul class="actions">
+				<!--ul class="actions">
 					<li><a href="./CHILT-PHP-Developer.pdf" class="button special icon fa-download">Download</a></li>
-				</ul>
+				</ul-->
 			</section>
 
 
